@@ -1,4 +1,4 @@
-# sockboom_replacement
+# 自用机场 sockboom_replacement
 sockboom替代
 sockboom用了一年多跑路了，找到一个性价比高的，可以月充，新春有优惠，4元一个月100G，感觉还可以用的不是很多的话。https://bit.ly/EFClouda
 
